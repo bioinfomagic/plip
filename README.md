@@ -16,7 +16,7 @@ The model is a fine-tuned version of the original CLIP model.
 ### Internal API Usage
 
 ```python
-    from plip.plip import PLIP
+    from plip import PLIP
     import numpy as np
     
     plip = PLIP('vinid/plip')
